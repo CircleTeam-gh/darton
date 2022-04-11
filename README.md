@@ -2,14 +2,15 @@
 DarTon
 </h3>
 <p align="center">
-<a href="https://www.repostatus.org/#concept">
-<img src="https://www.repostatus.org/badges/latest/concept.svg" alt="Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept."/>
+<a href="https://www.repostatus.org/#WIP">
+<img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: Concept – Work In Progress"/>
+<img src="https://img.shields.io/github/languages/top/CircleTeam-gh/darton">
 </a>
 <a href="/LICENSE">
-<img src="https://img.shields.io/github/license/CircleTeamCOM/darton" alt="License"/>
+<img src="https://img.shields.io/github/license/CircleTeam-gh/darton" alt="License"/>
 </a>
 <br/>
-Open-Source framework for creating The Open Network dApps using Flutter/Dart
+Open-Source package for creating The Open Network dApps using Flutter/Dart
 </p>
 <!-- 
 <a href="PUB">
